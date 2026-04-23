@@ -7,3 +7,4 @@ This Vite + React app is prepared for GitHub Pages deployment and is wired to ca
 ```bash
 npm install
 npm run dev
+
