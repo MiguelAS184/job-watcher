@@ -328,8 +328,6 @@ function App() {
           </article>
         </section>
 
-        {error ? <div className="banner">{error}</div> : null}
-
         <section id="dashboard" className="cards-grid">
           <article className="metric-card">
             <span>Unemployment Rate</span>
