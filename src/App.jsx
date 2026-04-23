@@ -111,7 +111,7 @@ function Sparkline({ points }) {
     <div className="chart-card">
       <div className="chart-head">
         <h3>Recent Forecast Trend</h3>
-        <span>Mocked until history endpoint is connected</span>
+        <span>Endpoint is Connected</span>
       </div>
       <svg viewBox={`0 0 ${width} ${height}`} className="sparkline" aria-label="forecast trend chart">
         <path d={d} fill="none" stroke="currentColor" strokeWidth="3" />
