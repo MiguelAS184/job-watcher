@@ -1,0 +1,12 @@
+a {
+  font-weight: 500;
+}
+
+body {
+  min-height: 100vh;
+}
+
+button,
+select {
+  font: inherit;
+}
